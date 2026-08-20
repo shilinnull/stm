@@ -1,0 +1,24 @@
+--cpu Cortex-M3
+"usart_redir_test\startup_stm32f103xe.o"
+"usart_redir_test\main.o"
+"usart_redir_test\stm32f1xx_it.o"
+"usart_redir_test\stm32f1xx_hal_msp.o"
+"usart_redir_test\stm32f1xx_hal_gpio_ex.o"
+"usart_redir_test\stm32f1xx_hal_uart.o"
+"usart_redir_test\stm32f1xx_hal.o"
+"usart_redir_test\stm32f1xx_hal_rcc.o"
+"usart_redir_test\stm32f1xx_hal_rcc_ex.o"
+"usart_redir_test\stm32f1xx_hal_gpio.o"
+"usart_redir_test\stm32f1xx_hal_dma.o"
+"usart_redir_test\stm32f1xx_hal_cortex.o"
+"usart_redir_test\stm32f1xx_hal_pwr.o"
+"usart_redir_test\stm32f1xx_hal_flash.o"
+"usart_redir_test\stm32f1xx_hal_flash_ex.o"
+"usart_redir_test\stm32f1xx_hal_exti.o"
+"usart_redir_test\system_stm32f1xx.o"
+"usart_redir_test\bsp_usart_redir.o"
+"usart_redir_test\bsp_led.o"
+--library_type=microlib --strict --scatter "Usart_Redir_test\Usart_Redir_test.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Usart_Redir_test.map" -o Usart_Redir_test\Usart_Redir_test.axf
