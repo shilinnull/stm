@@ -3,21 +3,21 @@
         {
             "name": "I2C_EEPROM_test",
             "includePath": [
-                "c:\\Users\\pc\\Desktop\\1\\codePractice\\stm\\I2C_EEPROM_test\\Core\\Inc",
-                "c:\\Users\\pc\\Desktop\\1\\codePractice\\stm\\I2C_EEPROM_test\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
-                "c:\\Users\\pc\\Desktop\\1\\codePractice\\stm\\I2C_EEPROM_test\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
-                "c:\\Users\\pc\\Desktop\\1\\codePractice\\stm\\I2C_EEPROM_test\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
-                "c:\\Users\\pc\\Desktop\\1\\codePractice\\stm\\I2C_EEPROM_test\\Drivers\\CMSIS\\Include",
-                "c:\\Users\\pc\\Desktop\\1\\codePractice\\stm\\I2C_EEPROM_test\\APP",
-                "c:\\Users\\pc\\Desktop\\1\\codePractice\\stm\\BSP_Drivers\\Inc",
+                "c:\\Users\\pc\\Desktop\\1\\stm\\I2C_EEPROM_test\\Core\\Inc",
+                "c:\\Users\\pc\\Desktop\\1\\stm\\I2C_EEPROM_test\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
+                "c:\\Users\\pc\\Desktop\\1\\stm\\I2C_EEPROM_test\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
+                "c:\\Users\\pc\\Desktop\\1\\stm\\I2C_EEPROM_test\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
+                "c:\\Users\\pc\\Desktop\\1\\stm\\I2C_EEPROM_test\\Drivers\\CMSIS\\Include",
+                "c:\\Users\\pc\\Desktop\\1\\stm\\I2C_EEPROM_test\\APP",
+                "c:\\Users\\pc\\Desktop\\1\\stm\\BSP_Drivers\\Inc",
                 "C:\\Keil5\\Keil_v5\\ARM\\ARMCLANG\\include",
                 "C:\\Keil5\\Keil_v5\\ARM\\ARMCLANG\\include\\arm_linux",
                 "C:\\Keil5\\Keil_v5\\ARM\\ARMCLANG\\include\\arm_linux_compat",
                 "C:\\Keil5\\Keil_v5\\ARM\\ARMCLANG\\include\\libcxx",
-                "c:\\Users\\pc\\Desktop\\1\\codePractice\\stm\\I2C_EEPROM_test\\MDK-ARM",
-                "c:\\Users\\pc\\Desktop\\1\\codePractice\\stm\\I2C_EEPROM_test\\Core\\Src",
-                "c:\\Users\\pc\\Desktop\\1\\codePractice\\stm\\I2C_EEPROM_test\\Drivers\\STM32F1xx_HAL_Driver\\Src",
-                "c:\\Users\\pc\\Desktop\\1\\codePractice\\stm\\BSP_Drivers\\Src"
+                "c:\\Users\\pc\\Desktop\\1\\stm\\I2C_EEPROM_test\\MDK-ARM",
+                "c:\\Users\\pc\\Desktop\\1\\stm\\I2C_EEPROM_test\\Core\\Src",
+                "c:\\Users\\pc\\Desktop\\1\\stm\\I2C_EEPROM_test\\Drivers\\STM32F1xx_HAL_Driver\\Src",
+                "c:\\Users\\pc\\Desktop\\1\\stm\\BSP_Drivers\\Src"
             ],
             "defines": [
                 "USE_HAL_DRIVER",
