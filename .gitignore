@@ -1,0 +1,30 @@
+# Keil build output
+*.o
+*.d
+*.dep
+*.crf
+*.lst
+*.map
+*.axf
+*.elf
+*.hex
+*.bin
+*.build_log.htm
+
+# Keil generated directories and user settings
+**/Objects/
+**/Listings/
+*.uvguix.*
+
+# Editor and tool logs
+**/.vscode/*.log
+**/.vscode/*.log.lock
+*.log
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.orig
+*~
+~$*
