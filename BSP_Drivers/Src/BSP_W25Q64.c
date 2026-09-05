@@ -132,7 +132,7 @@ void BSP_W25Qxx_Write_Disable(void)
     HAL_StatusTypeDef state = HAL_SPI_Transmit(g_w25qxx.hspi, &cmd, sizeof(cmd), HAL_MAX_DELAY);
     if (state != HAL_OK)
     {
-        printf(">> BSP_W25Qxx_Write_Enable HAL_SPI_Transmit error, cmd is : 0x%x failed, state: 0x%x\n", cmd, state);
+        printf(">> BSP_W25Qxx_Write_Disable HAL_SPI_Transmit error, cmd is : 0x%x failed, state: 0x%x\n", cmd, state);
     }
     BSP_W25Qxx_CS_Disable();
 }
