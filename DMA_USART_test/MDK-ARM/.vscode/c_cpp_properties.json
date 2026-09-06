@@ -3,18 +3,18 @@
         {
             "name": "DMA_USART_test",
             "includePath": [
-                "d:\\code_project\\DMA_USART_test\\Core\\Inc",
-                "d:\\code_project\\DMA_USART_test\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
-                "d:\\code_project\\DMA_USART_test\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
-                "d:\\code_project\\DMA_USART_test\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
-                "d:\\code_project\\DMA_USART_test\\Drivers\\CMSIS\\Include",
-                "D:\\software\\Keil5\\core\\ARM\\ARMCLANG\\include",
-                "D:\\software\\Keil5\\core\\ARM\\ARMCLANG\\include\\arm_linux",
-                "D:\\software\\Keil5\\core\\ARM\\ARMCLANG\\include\\arm_linux_compat",
-                "D:\\software\\Keil5\\core\\ARM\\ARMCLANG\\include\\libcxx",
-                "d:\\code_project\\DMA_USART_test\\MDK-ARM",
-                "d:\\code_project\\DMA_USART_test\\Core\\Src",
-                "d:\\code_project\\DMA_USART_test\\Drivers\\STM32F1xx_HAL_Driver\\Src"
+                "c:\\Users\\pc\\Desktop\\1\\stm\\DMA_USART_test\\Core\\Inc",
+                "c:\\Users\\pc\\Desktop\\1\\stm\\DMA_USART_test\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
+                "c:\\Users\\pc\\Desktop\\1\\stm\\DMA_USART_test\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
+                "c:\\Users\\pc\\Desktop\\1\\stm\\DMA_USART_test\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
+                "c:\\Users\\pc\\Desktop\\1\\stm\\DMA_USART_test\\Drivers\\CMSIS\\Include",
+                "C:\\Keil5\\Keil_v5\\ARM\\ARMCLANG\\include",
+                "C:\\Keil5\\Keil_v5\\ARM\\ARMCLANG\\include\\arm_linux",
+                "C:\\Keil5\\Keil_v5\\ARM\\ARMCLANG\\include\\arm_linux_compat",
+                "C:\\Keil5\\Keil_v5\\ARM\\ARMCLANG\\include\\libcxx",
+                "c:\\Users\\pc\\Desktop\\1\\stm\\DMA_USART_test\\MDK-ARM",
+                "c:\\Users\\pc\\Desktop\\1\\stm\\DMA_USART_test\\Core\\Src",
+                "c:\\Users\\pc\\Desktop\\1\\stm\\DMA_USART_test\\Drivers\\STM32F1xx_HAL_Driver\\Src"
             ],
             "defines": [
                 "USE_HAL_DRIVER",

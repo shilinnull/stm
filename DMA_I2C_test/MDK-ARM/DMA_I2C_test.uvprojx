@@ -7,7 +7,7 @@
 
   <Targets>
     <Target>
-      <TargetName>INT_I2C_test</TargetName>
+      <TargetName>DMA_I2C_test</TargetName>
       <ToolsetNumber>0x4</ToolsetNumber>
       <ToolsetName>ARM-ADS</ToolsetName>
       <pCCUsed>6240000::V6.24::ARMCLANG</pCCUsed>
@@ -137,7 +137,7 @@
             <DriverSelection>4101</DriverSelection>
           </Flash1>
           <bUseTDR>1</bUseTDR>
-          <Flash2>BIN\UL2V8M.DLL</Flash2>
+          <Flash2>BIN\UL2CM3.DLL</Flash2>
           <Flash3></Flash3>
           <Flash4></Flash4>
           <pFcarmOut></pFcarmOut>
@@ -519,7 +519,7 @@
       <component Cclass="CMSIS" Cgroup="CORE" Cvendor="ARM" Cversion="6.2.0" condition="ARMv6_7_8-M Device" ymlID="CMSIS:CORE">
         <package name="CMSIS" schemaVersion="1.7.53" url="https://www.keil.com/pack/" vendor="ARM" version="6.3.0"/>
         <targetInfos>
-          <targetInfo name="INT_I2C_test"/>
+          <targetInfo name="DMA_I2C_test"/>
         </targetInfos>
       </component>
     </components>
