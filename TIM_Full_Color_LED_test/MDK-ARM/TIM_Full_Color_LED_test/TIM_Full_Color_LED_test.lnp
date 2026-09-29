@@ -1,0 +1,26 @@
+--cpu Cortex-M3
+"tim_full_color_led_test\startup_stm32f103xe.o"
+"tim_full_color_led_test\main.o"
+"tim_full_color_led_test\stm32f1xx_it.o"
+"tim_full_color_led_test\stm32f1xx_hal_msp.o"
+"tim_full_color_led_test\stm32f1xx_hal_gpio_ex.o"
+"tim_full_color_led_test\stm32f1xx_hal_tim.o"
+"tim_full_color_led_test\stm32f1xx_hal_tim_ex.o"
+"tim_full_color_led_test\stm32f1xx_hal.o"
+"tim_full_color_led_test\stm32f1xx_hal_rcc.o"
+"tim_full_color_led_test\stm32f1xx_hal_rcc_ex.o"
+"tim_full_color_led_test\stm32f1xx_hal_gpio.o"
+"tim_full_color_led_test\stm32f1xx_hal_dma.o"
+"tim_full_color_led_test\stm32f1xx_hal_cortex.o"
+"tim_full_color_led_test\stm32f1xx_hal_pwr.o"
+"tim_full_color_led_test\stm32f1xx_hal_flash.o"
+"tim_full_color_led_test\stm32f1xx_hal_flash_ex.o"
+"tim_full_color_led_test\stm32f1xx_hal_exti.o"
+"tim_full_color_led_test\stm32f1xx_hal_uart.o"
+"tim_full_color_led_test\system_stm32f1xx.o"
+"tim_full_color_led_test\bsp_usart_redir.o"
+"tim_full_color_led_test\bsp_ws2812b.o"
+--library_type=microlib --strict --scatter "TIM_Full_Color_LED_test\TIM_Full_Color_LED_test.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "TIM_Full_Color_LED_test.map" -o TIM_Full_Color_LED_test\TIM_Full_Color_LED_test.axf
