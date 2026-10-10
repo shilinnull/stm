@@ -1,0 +1,1077 @@
+{
+  "meta": {
+    "root": "C:\\Users\\pc\\Desktop\\1\\stm",
+    "generated_at": "2026-10-09T22:44:57+08:00",
+    "max_depth": 5,
+    "max_files": 3000,
+    "files_scanned": 3000,
+    "directories_scanned": 596,
+    "ignored_directories": [
+      ".git",
+      ".project-context",
+      "DMA_I2C_test/MDK-ARM/.vscode",
+      "DMA_SPI_test/MDK-ARM/.vscode",
+      "DMA_USART_test/MDK-ARM/.vscode",
+      "I2C_EEPROM_test/MDK-ARM/.vscode",
+      "INT_I2C_test/MDK-ARM/.vscode",
+      "INT_SPI_test/MDK-ARM/.vscode",
+      "INT_SP_test/MDK-ARM/.vscode",
+      "INT_USART_test/MDK-ARM/.vscode",
+      "KEY_LED_test/MDK-ARM/.vscode",
+      "LED_test/MDK-ARM/.vscode",
+      "RCC_test/MDK-ARM/.vscode",
+      "SPI_Flash_Demo_test/MDK-ARM/.vscode"
+    ]
+  },
+  "project_identity": {
+    "project_name": "stm",
+    "repository_type_candidates": [
+      "unknown"
+    ],
+    "primary_language_candidates": [
+      "C"
+    ],
+    "package_manager_candidates": [],
+    "framework_candidates": []
+  },
+  "root_files": {
+    "readme": [],
+    "package_files": [],
+    "config_files": [],
+    "environment_examples": [],
+    "environment_files_detected": []
+  },
+  "commands": {},
+  "detected_paths": {
+    "entry_points": [],
+    "frontend_routes": [
+      "I2C_EEPROM_test/APP/App.c",
+      "I2C_EEPROM_test/APP/App.h"
+    ],
+    "backend_routes": [],
+    "api_clients": [],
+    "core_module_candidates": [],
+    "data_layer_candidates": [],
+    "auth_security_candidates": [],
+    "test_files": [],
+    "docs": [],
+    "deployment": []
+  },
+  "directory_summary": [
+    {
+      "path": "BSP_Drivers",
+      "depth": 1,
+      "file_count": 18,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "BSP_Drivers/Inc",
+      "depth": 2,
+      "file_count": 9,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "BSP_Drivers/Src",
+      "depth": 2,
+      "file_count": 9,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "DMA_I2C_test",
+      "depth": 1,
+      "file_count": 252,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "DMA_I2C_test/Core",
+      "depth": 2,
+      "file_count": 7,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "DMA_I2C_test/Core/Inc",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "DMA_I2C_test/Core/Src",
+      "depth": 3,
+      "file_count": 4,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "DMA_I2C_test/Drivers",
+      "depth": 2,
+      "file_count": 204,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "DMA_I2C_test/Drivers/CMSIS",
+      "depth": 3,
+      "file_count": 72,
+      "directory_count": 10,
+      "hints": []
+    },
+    {
+      "path": "DMA_I2C_test/Drivers/STM32F1xx_HAL_Driver",
+      "depth": 3,
+      "file_count": 132,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "DMA_I2C_test/MDK-ARM",
+      "depth": 2,
+      "file_count": 40,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "DMA_I2C_test/MDK-ARM/DebugConfig",
+      "depth": 3,
+      "file_count": 2,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "DMA_I2C_test/MDK-ARM/INT_I2C_test",
+      "depth": 3,
+      "file_count": 29,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "DMA_I2C_test/MDK-ARM/RTE",
+      "depth": 3,
+      "file_count": 4,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "DMA_SPI_test",
+      "depth": 1,
+      "file_count": 245,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "DMA_SPI_test/Core",
+      "depth": 2,
+      "file_count": 7,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "DMA_SPI_test/Core/Inc",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "DMA_SPI_test/Core/Src",
+      "depth": 3,
+      "file_count": 4,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "DMA_SPI_test/Drivers",
+      "depth": 2,
+      "file_count": 204,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "DMA_SPI_test/Drivers/CMSIS",
+      "depth": 3,
+      "file_count": 72,
+      "directory_count": 10,
+      "hints": []
+    },
+    {
+      "path": "DMA_SPI_test/Drivers/STM32F1xx_HAL_Driver",
+      "depth": 3,
+      "file_count": 132,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "DMA_SPI_test/MDK-ARM",
+      "depth": 2,
+      "file_count": 33,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "DMA_SPI_test/MDK-ARM/DebugConfig",
+      "depth": 3,
+      "file_count": 1,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "DMA_SPI_test/MDK-ARM/INT_SPI_test",
+      "depth": 3,
+      "file_count": 25,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "DMA_SPI_test/MDK-ARM/RTE",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "DMA_USART_test",
+      "depth": 1,
+      "file_count": 243,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "DMA_USART_test/Core",
+      "depth": 2,
+      "file_count": 7,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "DMA_USART_test/Core/Inc",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "DMA_USART_test/Core/Src",
+      "depth": 3,
+      "file_count": 4,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "DMA_USART_test/Drivers",
+      "depth": 2,
+      "file_count": 204,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "DMA_USART_test/Drivers/CMSIS",
+      "depth": 3,
+      "file_count": 72,
+      "directory_count": 10,
+      "hints": []
+    },
+    {
+      "path": "DMA_USART_test/Drivers/STM32F1xx_HAL_Driver",
+      "depth": 3,
+      "file_count": 132,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "DMA_USART_test/MDK-ARM",
+      "depth": 2,
+      "file_count": 31,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "DMA_USART_test/MDK-ARM/DMA_USART_test",
+      "depth": 3,
+      "file_count": 23,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "DMA_USART_test/MDK-ARM/DebugConfig",
+      "depth": 3,
+      "file_count": 1,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "DMA_USART_test/MDK-ARM/RTE",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "I2C_EEPROM_test",
+      "depth": 1,
+      "file_count": 109,
+      "directory_count": 4,
+      "hints": []
+    },
+    {
+      "path": "I2C_EEPROM_test/APP",
+      "depth": 2,
+      "file_count": 2,
+      "directory_count": 0,
+      "hints": [
+        "frontend"
+      ]
+    },
+    {
+      "path": "I2C_EEPROM_test/Core",
+      "depth": 2,
+      "file_count": 7,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "I2C_EEPROM_test/Core/Inc",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "I2C_EEPROM_test/Core/Src",
+      "depth": 3,
+      "file_count": 4,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "I2C_EEPROM_test/Drivers",
+      "depth": 2,
+      "file_count": 63,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "I2C_EEPROM_test/Drivers/CMSIS",
+      "depth": 3,
+      "file_count": 22,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "I2C_EEPROM_test/Drivers/STM32F1xx_HAL_Driver",
+      "depth": 3,
+      "file_count": 41,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "I2C_EEPROM_test/MDK-ARM",
+      "depth": 2,
+      "file_count": 36,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "I2C_EEPROM_test/MDK-ARM/DebugConfig",
+      "depth": 3,
+      "file_count": 1,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "I2C_EEPROM_test/MDK-ARM/I2C_EEPROM_test",
+      "depth": 3,
+      "file_count": 28,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "I2C_EEPROM_test/MDK-ARM/RTE",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "INT_I2C_test",
+      "depth": 1,
+      "file_count": 246,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "INT_I2C_test/Core",
+      "depth": 2,
+      "file_count": 7,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "INT_I2C_test/Core/Inc",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "INT_I2C_test/Core/Src",
+      "depth": 3,
+      "file_count": 4,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "INT_I2C_test/Drivers",
+      "depth": 2,
+      "file_count": 204,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "INT_I2C_test/Drivers/CMSIS",
+      "depth": 3,
+      "file_count": 72,
+      "directory_count": 10,
+      "hints": []
+    },
+    {
+      "path": "INT_I2C_test/Drivers/STM32F1xx_HAL_Driver",
+      "depth": 3,
+      "file_count": 132,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "INT_I2C_test/MDK-ARM",
+      "depth": 2,
+      "file_count": 34,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "INT_I2C_test/MDK-ARM/DebugConfig",
+      "depth": 3,
+      "file_count": 1,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "INT_I2C_test/MDK-ARM/INT_I2C_test",
+      "depth": 3,
+      "file_count": 26,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "INT_I2C_test/MDK-ARM/RTE",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "INT_SPI_test",
+      "depth": 1,
+      "file_count": 245,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "INT_SPI_test/Core",
+      "depth": 2,
+      "file_count": 7,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "INT_SPI_test/Core/Inc",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "INT_SPI_test/Core/Src",
+      "depth": 3,
+      "file_count": 4,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "INT_SPI_test/Drivers",
+      "depth": 2,
+      "file_count": 204,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "INT_SPI_test/Drivers/CMSIS",
+      "depth": 3,
+      "file_count": 72,
+      "directory_count": 10,
+      "hints": []
+    },
+    {
+      "path": "INT_SPI_test/Drivers/STM32F1xx_HAL_Driver",
+      "depth": 3,
+      "file_count": 132,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "INT_SPI_test/MDK-ARM",
+      "depth": 2,
+      "file_count": 33,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "INT_SPI_test/MDK-ARM/DebugConfig",
+      "depth": 3,
+      "file_count": 1,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "INT_SPI_test/MDK-ARM/INT_SPI_test",
+      "depth": 3,
+      "file_count": 25,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "INT_SPI_test/MDK-ARM/RTE",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "INT_SP_test",
+      "depth": 1,
+      "file_count": 246,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "INT_SP_test/Core",
+      "depth": 2,
+      "file_count": 7,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "INT_SP_test/Core/Inc",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "INT_SP_test/Core/Src",
+      "depth": 3,
+      "file_count": 4,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "INT_SP_test/Drivers",
+      "depth": 2,
+      "file_count": 204,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "INT_SP_test/Drivers/CMSIS",
+      "depth": 3,
+      "file_count": 72,
+      "directory_count": 10,
+      "hints": []
+    },
+    {
+      "path": "INT_SP_test/Drivers/STM32F1xx_HAL_Driver",
+      "depth": 3,
+      "file_count": 132,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "INT_SP_test/MDK-ARM",
+      "depth": 2,
+      "file_count": 34,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "INT_SP_test/MDK-ARM/DebugConfig",
+      "depth": 3,
+      "file_count": 1,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "INT_SP_test/MDK-ARM/INT_SP_test",
+      "depth": 3,
+      "file_count": 25,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "INT_SP_test/MDK-ARM/RTE",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "INT_USART_test",
+      "depth": 1,
+      "file_count": 243,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "INT_USART_test/Core",
+      "depth": 2,
+      "file_count": 7,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "INT_USART_test/Core/Inc",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "INT_USART_test/Core/Src",
+      "depth": 3,
+      "file_count": 4,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "INT_USART_test/Drivers",
+      "depth": 2,
+      "file_count": 204,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "INT_USART_test/Drivers/CMSIS",
+      "depth": 3,
+      "file_count": 72,
+      "directory_count": 10,
+      "hints": []
+    },
+    {
+      "path": "INT_USART_test/Drivers/STM32F1xx_HAL_Driver",
+      "depth": 3,
+      "file_count": 132,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "INT_USART_test/MDK-ARM",
+      "depth": 2,
+      "file_count": 31,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "INT_USART_test/MDK-ARM/DebugConfig",
+      "depth": 3,
+      "file_count": 1,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "INT_USART_test/MDK-ARM/INT_USART_test",
+      "depth": 3,
+      "file_count": 23,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "INT_USART_test/MDK-ARM/RTE",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "KEY_LED_test",
+      "depth": 1,
+      "file_count": 242,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "KEY_LED_test/Core",
+      "depth": 2,
+      "file_count": 7,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "KEY_LED_test/Core/Inc",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "KEY_LED_test/Core/Src",
+      "depth": 3,
+      "file_count": 4,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "KEY_LED_test/Drivers",
+      "depth": 2,
+      "file_count": 204,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "KEY_LED_test/Drivers/CMSIS",
+      "depth": 3,
+      "file_count": 72,
+      "directory_count": 10,
+      "hints": []
+    },
+    {
+      "path": "KEY_LED_test/Drivers/STM32F1xx_HAL_Driver",
+      "depth": 3,
+      "file_count": 132,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "KEY_LED_test/MDK-ARM",
+      "depth": 2,
+      "file_count": 30,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "KEY_LED_test/MDK-ARM/DebugConfig",
+      "depth": 3,
+      "file_count": 1,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "KEY_LED_test/MDK-ARM/KEY_LED_test",
+      "depth": 3,
+      "file_count": 22,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "KEY_LED_test/MDK-ARM/RTE",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "LED_test",
+      "depth": 1,
+      "file_count": 242,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "LED_test/Core",
+      "depth": 2,
+      "file_count": 7,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "LED_test/Core/Inc",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "LED_test/Core/Src",
+      "depth": 3,
+      "file_count": 4,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "LED_test/Drivers",
+      "depth": 2,
+      "file_count": 204,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "LED_test/Drivers/CMSIS",
+      "depth": 3,
+      "file_count": 72,
+      "directory_count": 10,
+      "hints": []
+    },
+    {
+      "path": "LED_test/Drivers/STM32F1xx_HAL_Driver",
+      "depth": 3,
+      "file_count": 132,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "LED_test/MDK-ARM",
+      "depth": 2,
+      "file_count": 30,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "LED_test/MDK-ARM/DebugConfig",
+      "depth": 3,
+      "file_count": 1,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "LED_test/MDK-ARM/LED_test",
+      "depth": 3,
+      "file_count": 22,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "LED_test/MDK-ARM/RTE",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "RCC_test",
+      "depth": 1,
+      "file_count": 242,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "RCC_test/Core",
+      "depth": 2,
+      "file_count": 7,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "RCC_test/Core/Inc",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "RCC_test/Core/Src",
+      "depth": 3,
+      "file_count": 4,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "RCC_test/Drivers",
+      "depth": 2,
+      "file_count": 204,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "RCC_test/Drivers/CMSIS",
+      "depth": 3,
+      "file_count": 72,
+      "directory_count": 10,
+      "hints": []
+    },
+    {
+      "path": "RCC_test/Drivers/STM32F1xx_HAL_Driver",
+      "depth": 3,
+      "file_count": 132,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "RCC_test/MDK-ARM",
+      "depth": 2,
+      "file_count": 30,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "RCC_test/MDK-ARM/DebugConfig",
+      "depth": 3,
+      "file_count": 1,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "RCC_test/MDK-ARM/RCC_test",
+      "depth": 3,
+      "file_count": 22,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "RCC_test/MDK-ARM/RTE",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "SPI_Flash_Demo_test",
+      "depth": 1,
+      "file_count": 245,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "SPI_Flash_Demo_test/Core",
+      "depth": 2,
+      "file_count": 7,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "SPI_Flash_Demo_test/Core/Inc",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "SPI_Flash_Demo_test/Core/Src",
+      "depth": 3,
+      "file_count": 4,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "SPI_Flash_Demo_test/Drivers",
+      "depth": 2,
+      "file_count": 204,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "SPI_Flash_Demo_test/Drivers/CMSIS",
+      "depth": 3,
+      "file_count": 72,
+      "directory_count": 10,
+      "hints": []
+    },
+    {
+      "path": "SPI_Flash_Demo_test/Drivers/STM32F1xx_HAL_Driver",
+      "depth": 3,
+      "file_count": 132,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "SPI_Flash_Demo_test/MDK-ARM",
+      "depth": 2,
+      "file_count": 33,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "SPI_Flash_Demo_test/MDK-ARM/DebugConfig",
+      "depth": 3,
+      "file_count": 1,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "SPI_Flash_Demo_test/MDK-ARM/RTE",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "SPI_Flash_Demo_test/MDK-ARM/SPI_Flash_Demo_test",
+      "depth": 3,
+      "file_count": 25,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "SPI_Flash_test",
+      "depth": 1,
+      "file_count": 182,
+      "directory_count": 3,
+      "hints": []
+    },
+    {
+      "path": "SPI_Flash_test/APP_Test",
+      "depth": 2,
+      "file_count": 2,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "SPI_Flash_test/Core",
+      "depth": 2,
+      "file_count": 7,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "SPI_Flash_test/Core/Inc",
+      "depth": 3,
+      "file_count": 3,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "SPI_Flash_test/Core/Src",
+      "depth": 3,
+      "file_count": 4,
+      "directory_count": 0,
+      "hints": []
+    },
+    {
+      "path": "SPI_Flash_test/Drivers",
+      "depth": 2,
+      "file_count": 172,
+      "directory_count": 2,
+      "hints": []
+    },
+    {
+      "path": "SPI_Flash_test/Drivers/CMSIS",
+      "depth": 3,
+      "file_count": 72,
+      "directory_count": 10,
+      "hints": []
+    },
+    {
+      "path": "SPI_Flash_test/Drivers/STM32F1xx_HAL_Driver",
+      "depth": 3,
+      "file_count": 100,
+      "directory_count": 2,
+      "hints": []
+    }
+  ],
+  "warnings": [
+    "Maximum file scan limit reached (3000). Results may be partial.",
+    "No .env.example or environment sample file detected.",
+    "No test command found in package.json scripts."
+  ]
+}
