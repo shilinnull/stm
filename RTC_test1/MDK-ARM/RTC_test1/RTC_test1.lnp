@@ -1,0 +1,25 @@
+--cpu Cortex-M3
+"rtc_test1\startup_stm32f103xe.o"
+"rtc_test1\main.o"
+"rtc_test1\stm32f1xx_it.o"
+"rtc_test1\stm32f1xx_hal_msp.o"
+"rtc_test1\stm32f1xx_hal_gpio_ex.o"
+"rtc_test1\stm32f1xx_hal_rtc.o"
+"rtc_test1\stm32f1xx_hal_rtc_ex.o"
+"rtc_test1\stm32f1xx_hal.o"
+"rtc_test1\stm32f1xx_hal_rcc.o"
+"rtc_test1\stm32f1xx_hal_rcc_ex.o"
+"rtc_test1\stm32f1xx_hal_gpio.o"
+"rtc_test1\stm32f1xx_hal_dma.o"
+"rtc_test1\stm32f1xx_hal_cortex.o"
+"rtc_test1\stm32f1xx_hal_pwr.o"
+"rtc_test1\stm32f1xx_hal_flash.o"
+"rtc_test1\stm32f1xx_hal_flash_ex.o"
+"rtc_test1\stm32f1xx_hal_exti.o"
+"rtc_test1\stm32f1xx_hal_uart.o"
+"rtc_test1\system_stm32f1xx.o"
+"rtc_test1\bsp_usart_redir.o"
+--library_type=microlib --strict --scatter "RTC_test1\RTC_test1.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "RTC_test1.map" -o RTC_test1\RTC_test1.axf

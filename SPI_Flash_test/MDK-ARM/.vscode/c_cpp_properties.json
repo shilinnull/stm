@@ -3,21 +3,21 @@
         {
             "name": "SPI_Flash_test",
             "includePath": [
-                "c:\\Users\\pc\\Desktop\\1\\stm\\SPI_Flash_test\\Core\\Inc",
-                "c:\\Users\\pc\\Desktop\\1\\stm\\SPI_Flash_test\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
-                "c:\\Users\\pc\\Desktop\\1\\stm\\SPI_Flash_test\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
-                "c:\\Users\\pc\\Desktop\\1\\stm\\SPI_Flash_test\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
-                "c:\\Users\\pc\\Desktop\\1\\stm\\SPI_Flash_test\\Drivers\\CMSIS\\Include",
-                "c:\\Users\\pc\\Desktop\\1\\stm\\BSP_Drivers\\inc",
-                "c:\\Users\\pc\\Desktop\\1\\stm\\SPI_Flash_test\\APP_Test",
+                "c:\\Users\\pc\\Desktop\\stm\\SPI_Flash_test\\Core\\Inc",
+                "c:\\Users\\pc\\Desktop\\stm\\SPI_Flash_test\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
+                "c:\\Users\\pc\\Desktop\\stm\\SPI_Flash_test\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
+                "c:\\Users\\pc\\Desktop\\stm\\SPI_Flash_test\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
+                "c:\\Users\\pc\\Desktop\\stm\\SPI_Flash_test\\Drivers\\CMSIS\\Include",
+                "c:\\Users\\pc\\Desktop\\stm\\BSP_Drivers\\inc",
+                "c:\\Users\\pc\\Desktop\\stm\\SPI_Flash_test\\APP_Test",
                 "C:\\Keil5\\Keil_v5\\ARM\\ARMCLANG\\include",
                 "C:\\Keil5\\Keil_v5\\ARM\\ARMCLANG\\include\\arm_linux",
                 "C:\\Keil5\\Keil_v5\\ARM\\ARMCLANG\\include\\arm_linux_compat",
                 "C:\\Keil5\\Keil_v5\\ARM\\ARMCLANG\\include\\libcxx",
-                "c:\\Users\\pc\\Desktop\\1\\stm\\SPI_Flash_test\\MDK-ARM",
-                "c:\\Users\\pc\\Desktop\\1\\stm\\SPI_Flash_test\\Core\\Src",
-                "c:\\Users\\pc\\Desktop\\1\\stm\\SPI_Flash_test\\Drivers\\STM32F1xx_HAL_Driver\\Src",
-                "c:\\Users\\pc\\Desktop\\1\\stm\\BSP_Drivers\\src"
+                "c:\\Users\\pc\\Desktop\\stm\\SPI_Flash_test\\MDK-ARM",
+                "c:\\Users\\pc\\Desktop\\stm\\SPI_Flash_test\\Core\\Src",
+                "c:\\Users\\pc\\Desktop\\stm\\SPI_Flash_test\\Drivers\\STM32F1xx_HAL_Driver\\Src",
+                "c:\\Users\\pc\\Desktop\\stm\\BSP_Drivers\\src"
             ],
             "defines": [
                 "USE_HAL_DRIVER",
