@@ -1,0 +1,24 @@
+--cpu Cortex-M3
+"internalflash_test\startup_stm32f103xe.o"
+"internalflash_test\main.o"
+"internalflash_test\stm32f1xx_it.o"
+"internalflash_test\stm32f1xx_hal_msp.o"
+"internalflash_test\stm32f1xx_hal_gpio_ex.o"
+"internalflash_test\stm32f1xx_hal_uart.o"
+"internalflash_test\stm32f1xx_hal.o"
+"internalflash_test\stm32f1xx_hal_rcc.o"
+"internalflash_test\stm32f1xx_hal_rcc_ex.o"
+"internalflash_test\stm32f1xx_hal_gpio.o"
+"internalflash_test\stm32f1xx_hal_dma.o"
+"internalflash_test\stm32f1xx_hal_cortex.o"
+"internalflash_test\stm32f1xx_hal_pwr.o"
+"internalflash_test\stm32f1xx_hal_flash.o"
+"internalflash_test\stm32f1xx_hal_flash_ex.o"
+"internalflash_test\stm32f1xx_hal_exti.o"
+"internalflash_test\system_stm32f1xx.o"
+"internalflash_test\bsp_usart_redir.o"
+"internalflash_test\internal_flash.o"
+--library_type=microlib --strict --scatter ".\InternalFlash_Test\InternalFlash_my.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "InternalFlash_Test.map" -o InternalFlash_Test\InternalFlash_Test.axf
